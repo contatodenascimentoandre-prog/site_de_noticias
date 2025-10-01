@@ -5,7 +5,7 @@
 }
 
 header {
-  background-color: crimson;
+  background-color: rgb(150, 130, 64);
   color: white;
   padding: 30px 0;
   text-align: center;
@@ -33,7 +33,7 @@ header nav {
 }
 
 footer {
-  background-color: crimson;
+  background-color: rgb(150, 130, 64);
   color: white;
   text-align: center;
   padding: 20px 0;
